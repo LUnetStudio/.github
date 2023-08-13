@@ -1,6 +1,9 @@
-![LUnet Studio](https://lunet.studio/i/show/0x96/internal/media/lunet-studio_logo-full.png)  . . . _Spájame kreatívne myšlienky s modernými technológiami_ . . .
+**L · U · n · e · t· · ·S · t · u · d · i · o** · · · 
+_Spájame kreatívne myšlienky s modernými technológiami_
 
-**Zvukové štúdio, webstránky, aplikácie a technické riešenia, správa technológií a sietí, audio a video streaming, ...**
+Zvukové štúdio, webstránky, aplikácie a technické riešenia, správa technológií a sietí, audio a video streaming, ...
+
+
 
 > [!WARNING]
 > This page is under construction! It may contain deprecated, uncompleted and/or false information.
