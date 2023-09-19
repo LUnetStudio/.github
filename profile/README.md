@@ -11,7 +11,7 @@ Here in LUnet Studio GitHub account you can find two main types of repositories 
 The second type is our forks where we needed to customize something for meets out requirements.
 
 
-## Conenct with us
+## Connect with us
 
 - [**LUnet Studio Homepage**](https://lunet.studio/)
 - [Facebook: **lunet.studio**](https://facebook.com/lunet.studio/)
